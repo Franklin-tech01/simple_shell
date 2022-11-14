@@ -1,1 +1,4 @@
-This is my second group project
+## Alx Simple Shell Project
+* Contributors were
+* Awa Franklin Mike
+* Maryjane Chukelu
